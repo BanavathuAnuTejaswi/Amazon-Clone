@@ -1,2 +1,2 @@
 # Amazon-Clone
-Built a amazon clone using HTML and CSS
+Built a amazon clone webpage using HTML and CSS
